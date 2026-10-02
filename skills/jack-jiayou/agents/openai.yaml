@@ -1,0 +1,4 @@
+interface:
+  display_name: "Jack 要加油 · 基础原则"
+  short_description: "用 Jack 叔叔的基础原则梳理重要决定、具体行动与复盘，保有长期选择权。"
+  default_prompt: "用 $jack-jiayou 帮我梳理眼前的决定，写出关键判断和具体的下一步行动。"

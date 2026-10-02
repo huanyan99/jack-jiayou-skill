@@ -15,7 +15,17 @@ templates/SKILL.md.example
 scripts/validate_skills.py
 ```
 
-目前尚未添加业务技能。模板不放在 skills 中，避免被当成可用技能加载。
+模板不放在 skills 中，避免被当成可用技能加载。
+
+## 已有技能
+
+| 技能 | 用途 |
+| --- | --- |
+| [Jack 要加油 · Jack 叔叔的基础原则](skills/jack-jiayou/SKILL.md) | 用于重要决定、行动规划和复盘，把长期选择权、韧性、冗余与环境设计落实到具体行动。 |
+
+调用示例：`用 $jack-jiayou 帮我梳理是否换工作的决定。`
+
+基础观点的原文保存在技能的 `references/principles.md`，后续可持续补充。技能中的操作方法是对原文的整理，不代表新增原话。
 
 ## 添加技能
 
